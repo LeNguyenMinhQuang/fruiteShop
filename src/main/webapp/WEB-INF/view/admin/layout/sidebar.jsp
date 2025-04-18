@@ -27,7 +27,7 @@
     </div>
     <div class="sb-sidenav-footer">
       <div class="small">Logged in as:</div>
-      USERNAME
+      ${sessionScope.fullName}
     </div>
   </nav>
 </div>

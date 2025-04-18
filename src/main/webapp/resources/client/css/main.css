@@ -19,6 +19,7 @@ html {
 }
 
 body {
+  scroll-behavior: smooth !important;
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
   font-size: 1rem;
@@ -604,6 +605,7 @@ nav.main-menu ul li a {
   display: block;
   padding: 15px;
 }
+
 
 nav.main-menu ul li a i {
   margin-right: 8px;
